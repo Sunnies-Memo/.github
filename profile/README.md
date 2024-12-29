@@ -174,7 +174,7 @@ src/
 
 ## 📎 **링크**
 
-- [배포 링](https://d362dj0rdk52ph.cloudfront.net/)  
+- [배포 링크](https://d362dj0rdk52ph.cloudfront.net/)  
 - [GitHub 리포지토리](https://github.com/orgs/Sunnies-Memo/repositories)  
 
 ---
